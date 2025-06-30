@@ -18,17 +18,16 @@ This is a voice-enabled educational assistant built with [LiveKit Agents](https:
 Run the following commands to set up the frontend:
 
 ```bash
-cd voice-assistant-frontend
+cd tavus
 npm install
 npm run dev
 ```
 
 And open http://localhost:3000 in your browser.
 
-You'll need to run the Tavus agent in a separate terminal:
+You'll need to run the Tavus agent in a separate terminal from the root directory:
 
 ```bash
-cd avatars/tavus
 python tavus.py
 ```
 

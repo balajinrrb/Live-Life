@@ -57,9 +57,9 @@ python tavus.py dev
 
 ### Frontend Setup
 
-1. Navigate to the frontend directory:
+1. Navigate to the tavus directory:
    ```
-   cd voice-assistant-frontend
+   cd tavus
    ```
 
 2. Install dependencies:

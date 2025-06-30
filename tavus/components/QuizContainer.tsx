@@ -1,7 +1,7 @@
 import { useEffect, useState } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { useRoomContext, useVoiceAssistant } from "@livekit/components-react";
-import Quiz, { QuizQuestion, QuizAnswer } from "./Quiz";
+import Quiz, { QuizQuestion } from "./Quiz";
 
 export interface SubmittedQuiz {
   id: string;
